@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D31F941D-85E3-495C-829A-C320E58E73E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI_MODERNISTA</RootNamespace>
+    <AssemblyName>GUI_MODERNISTA</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClosedXML, Version=0.95.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.95.4\lib\net40\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net40\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="EasyModbus, Version=5.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EasyModbusTCP.5.6.0\lib\net40\EasyModbus.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.10.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.10\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Documents\PROYECTOS\Gradder\ContadoraconFlintec\Contadora3D -v7\bin\x64\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <HintPath>..\packages\Office.12.0.0\lib\net40\Office.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conexionDB.cs" />
+    <Compile Include="Configuración.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuración.Designer.cs">
+      <DependentUpon>Configuración.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnóstico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnóstico.Designer.cs">
+      <DependentUpon>Diagnóstico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eventos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eventos.Designer.cs">
+      <DependentUpon>Eventos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI.Designer.cs">
+      <DependentUpon>GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registros.cs" />
+    <EmbeddedResource Include="Configuración.resx">
+      <DependentUpon>Configuración.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagnóstico.resx">
+      <DependentUpon>Diagnóstico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eventos.resx">
+      <DependentUpon>Eventos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI.resx">
+      <DependentUpon>GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abick_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-abrir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-auto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-manual.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-valve-azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-valve-azul-activo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-valve-naranjo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-valve-naranjo-activo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ficha-linea3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ficha-linea4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ind-guillotina-abierta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ind-guillotina-cerrada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ind-guillotina-off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaula01-04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaula05-08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaula09-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaula13-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaula19-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\margen-textos-jaulas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smart Eyes - Logo mixto con slogan_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out_jaula_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out_jaula01_04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out_jaula05_08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out_jaula09_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out_jaula13_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out_jaula19_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out_jaula_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\RojoVector.png" />
+    <Content Include="Resources\VerdeVector.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

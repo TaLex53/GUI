@@ -1,0 +1,216 @@
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Cesareo Valdivia\Music\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI-Modern-Parte-1-Formulario-Moderno-y-Plano-C-Sharp-y-WinForm-master\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Ruben\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\MySql.Data.dll
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\MySql.Data.xml
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Eventos.resources
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.dll
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.pdb
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.xml
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Diagnóstico.resources
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.GUI.resources
+C:\Users\Cesareo Valdivia\3D Objects\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Configuración.resources
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.dll
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.dll
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.pdb
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.xml
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.xml
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\MySql.Data.xml
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Configuración.resources
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Diagnóstico.resources
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Eventos.resources
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.GUI.resources
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CoreCompileInputs.cache
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\SMART EYES\Desktop\guillotinas\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.dll
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\MySql.Data.dll
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.pdb
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.xml
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\MySql.Data.xml
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Configuración.resources
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Diagnóstico.resources
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Eventos.resources
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.GUI.resources
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Ruben\3D Objects\Guilltonas nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.dll
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.dll
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\MySql.Data.dll
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.pdb
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.xml
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.xml
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\MySql.Data.xml
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Configuración.resources
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Diagnóstico.resources
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Eventos.resources
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.GUI.resources
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+D:\Guillotina nuevo nuevo\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.dll
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.dll
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.pdb
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.xml
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.xml
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\MySql.Data.xml
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Configuración.resources
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Diagnóstico.resources
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Eventos.resources
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.GUI.resources
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CoreCompileInputs.cache
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\SMART EYES\Desktop\Kristopher\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.dll
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.dll
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.pdb
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.xml
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.xml
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Configuración.resources
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Diagnóstico.resources
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Eventos.resources
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.GUI.resources
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CoreCompileInputs.cache
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\SMART EYES\Desktop\guillotinas\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.dll
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.dll
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.pdb
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.xml
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.xml
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csprojAssemblyReference.cache
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Configuración.resources
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Diagnóstico.resources
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Eventos.resources
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.GUI.resources
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CoreCompileInputs.cache
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\SMART EYES\Desktop\Actualizado 25-04-2345\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.dll
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.dll
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.dll
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.pdb
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ClosedXML.xml
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\EasyModbus.xml
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\bin\Debug\ExcelNumberFormat.xml
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.AssemblyReference.cache
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Configuración.resources
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Diagnóstico.resources
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Eventos.resources
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.GUI.resources
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.GenerateResource.cache
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CoreCompileInputs.cache
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.CopyComplete
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Proyectos\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Depto. Informatica\Documents\Abick\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_GUILLOTINAS.csproj.AssemblyReference.cache
+C:\Users\Depto. Informatica\Documents\Abick\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Depto. Informatica\Documents\Abick\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Depto. Informatica\Documents\Abick\Guillotina 30-09-2021\GUI_GUILLOTINAS\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
